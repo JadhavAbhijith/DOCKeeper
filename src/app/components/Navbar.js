@@ -33,7 +33,7 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link text-white" href="/AddDocument">
+                            <Link className="nav-link text-white" href="/adddocument">
                                 Add New Document
                             </Link>
                         </li>
