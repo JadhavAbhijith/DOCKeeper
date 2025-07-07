@@ -1,6 +1,5 @@
 # DOCKeeper 📄
 
-Visit the live poject at: https://doc-keeper.vercel.app/
 A Document Management System built with Next.js framework. 
 
 ## 🌟 Features
